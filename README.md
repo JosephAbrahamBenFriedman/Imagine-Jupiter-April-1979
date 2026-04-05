@@ -4,7 +4,7 @@ File [voyager1_fill_00.0111.tif](https://svs.gsfc.nasa.gov/vis/a000000/a003600/a
 
 File [voyager2_fill_00.0001.tif](https://svs.gsfc.nasa.gov/vis/a000000/a003600/a003614/frames/3240x1620_2x1_15p/voyager2_fill_00.0001.tif) is cropped by Voyager 2. It is downloaded from [the website of NASA](https://svs.gsfc.nasa.gov/3614). File Voyager_2.png is its PNG format.
 
-File [Jupiter_-_April_6_1979_(26730135844).jpg](https://upload.wikimedia.org/wikipedia/commons/2/2f/Jupiter_-_April_6_1979_%2826730135844%29.jpg) is released to the public domain. It is downloaded from [Wikimedia Commons].
+File [Jupiter_-_April_6_1979_(26730135844).jpg](https://upload.wikimedia.org/wikipedia/commons/2/2f/Jupiter_-_April_6_1979_%2826730135844%29.jpg) is released to the public domain. It is downloaded from [Wikimedia Commons](Jupiter_-April_6_1979(26730135844).jpg).
 
 File [Jupiter_-_April_13_1979_(25967403988).jpg](https://upload.wikimedia.org/wikipedia/commons/3/3d/Jupiter_-_April_13_1979_%2825967403988%29.jpg) is released to the public domain. It is downloaded from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jupiter_-_April_13_1979_(25967403988).jpg).
 
