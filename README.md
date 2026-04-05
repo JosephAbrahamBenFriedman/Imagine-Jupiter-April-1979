@@ -1,6 +1,6 @@
 File Draw.tiff is the source of the image imaginations. File Draw.png is its PNG format.
 
-File [voyager1_fill_00.0111.tif](https://svs.gsfc.nasa.gov/vis/a000000/a003600/a003611/frames/3240x1620_2x1_15p/voyager1_fill_00.0111.tif) is cropped by Voyager 1 and is downloaded from [the website of NASA](https://svs.gsfc.nasa.gov/3611). File Voyager_1.png is its PNG format.
+File [voyager1_fill_00.0111.tif](https://svs.gsfc.nasa.gov/vis/a000000/a003600/a003611/frames/3240x1620_2x1_15p/voyager1_fill_00.0111.tif) is cropped by Voyager 1. It is downloaded from [the website of NASA](https://svs.gsfc.nasa.gov/3611). File Voyager_1.png is its PNG format.
 
 File [voyager2_fill_00.0001.tif](https://svs.gsfc.nasa.gov/vis/a000000/a003600/a003614/frames/3240x1620_2x1_15p/voyager2_fill_00.0001.tif) is cropped by Voyager 2. It is downloaded from [the website of NASA](https://svs.gsfc.nasa.gov/3614). File Voyager_2.png is its PNG format.
 
