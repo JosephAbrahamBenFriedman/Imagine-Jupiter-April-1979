@@ -13,3 +13,7 @@ File [20120906_jupiter_vgr1_global_caption.png](https://planetary.s3.amazonaws.c
 File [jupiter_voyager2_global_mosaic_final_sharpened_jonsson.jpg](https://planetary.s3.amazonaws.com/web/assets/pictures/jupiter_voyager2_global_mosaic_final_sharpened_jonsson.jpg) is downloaded from [the Planetary Society](https://www.planetary.org/space-images/voyager-2-view-of-jupiter).
 
 File [ARC-1979-AC79-7098~orig.jpg](https://images-assets.nasa.gov/image/ARC-1979-AC79-7098/ARC-1979-AC79-7098~orig.jpg) is downloaded from [the website of NASA](https://images.nasa.gov/details/ARC-1979-AC79-7098).
+
+File [jpegPIA00454.jpg](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA00454.jpg) is downloaded from [the website of NASA](https://www.jpl.nasa.gov/images/pia00454-early-voyager-1-images-of-jupiter/).
+
+File [20120907_jup_montage.jpg](https://planetary.s3.amazonaws.com/web/assets/pictures/20120907_jup_montage.jpg) is downloaded from [the Planetary Society](https://planetary.s3.amazonaws.com/web/assets/pictures/20120907_jup_montage.jpg).
